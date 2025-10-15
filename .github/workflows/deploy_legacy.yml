@@ -1,4 +1,5 @@
 name: Build And Deploy (Legacy)
+runs-on: ubuntu-latest
 on:
   workflow_dispatch:
 jobs:
@@ -13,5 +14,5 @@ jobs:
         if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main'}}
         with:
           BRANCH: gh-pages
-          FOLDER: docs
+          FOLDER: dist
           CLEAN: true

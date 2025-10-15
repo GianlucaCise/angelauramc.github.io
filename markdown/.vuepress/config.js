@@ -48,7 +48,7 @@ module.exports = {
     ],
   ],
   base: "/",
-  dest: "./docs",
+  dest: "./dist",
 
   watch: {
     $page(newPage, oldPage) {
