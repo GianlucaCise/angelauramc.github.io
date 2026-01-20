@@ -167,7 +167,7 @@ This release is identical to v2.0, except with a fix for issues installing on Pr
 - Jailbreak is required in order to install OpenJDK and PojavLauncher.
 - Forge won't work.
 - Fabric API won't work.
-- [Tell us](https://github.com/AngelAuraMC/Amethyst-iOS/issues).
+- [Tell us](https://github.com/PojavLauncherTeam/PojavLauncher_iOS/issues).
 
 ### Crashes
 - ~~I've got some reports that JVM was crashing after press “Play” button.~~
