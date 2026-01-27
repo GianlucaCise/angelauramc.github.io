@@ -11,8 +11,7 @@ There are multiple ways to do this. Usually, pressing the **Share log file** but
 If Amethyst does not appear in the 3 lines menu, try closing (or opening) Amethyst. If that does not work, try restarting your device.
 You can also use [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver) (or [MiXplorer](https://mixplorer.com/)) with [Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api&hl=en_US) to access it.
 
-## Android 9 and older <!-- TODO: update path to the log on andod 9 and older -->
-
-  **/storage/emulated/0/games/PojavLauncher/latestlog.txt**
+## Android 9 and older
+ **/sdcard/android/data/org.angelauramc.amethyst/files/latestlog.txt**
   
 All file managers can access this directory. [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver) and [MiXplorer](https://mixplorer.com/) are recommended.
